@@ -1,1 +1,2 @@
-[![DolbyUUU's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolbyUUU)](https://github.com/DolbyUUU/github-readme-stats)
+![](https://raw.githubusercontent.com/DolbyUUU/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DolbyUUU/github-stats/master/generated/overview.svg#gh-light-mode-only)
